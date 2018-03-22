@@ -1,15 +1,15 @@
-#SWENGB Project 
-###Courseware
+# SWENGB Project 
+### Courseware
 **TEAM - [M](https://github.com/mwageneder "github.com/mwageneder") [T](https://github.com/tortmann "github.com/tortmann") [N](https://github.com/nspalek "github.com/nspalek")**
 
                                          Thomas Ortmann | Nina Spalek | Maximilian Wageneder
 
 
-###_Introduction:_
+### Introduction:
 This Project was developed during our Bachelor Degree Programme "Informationsmanagement" @FH Joanneum Graz.  
 Our Trainers were DI (FH) Johann Blauensteiner & [Dipl.-Ing. Robert Ladstätter](https://github.com/rladstaetter "github.com/rladstaetter")
 
-###Goal: 
+### Goal: 
 Scala Database Application to display our Bachelor Degree Programme <br>
 ###Database:
 Connection to Microsoft SQL Server (imasql @FH Joanneum)
@@ -20,12 +20,12 @@ Connection to Microsoft SQL Server (imasql @FH Joanneum)
 
 ==========================
 
-###ER-Model:
+### ER-Model:
 ![ER](https://github.com/NSpalek/fhj.swengb.project.courseware.mtn/blob/master/src/main/resources/Screenshots/ER_Model_Courseware.png "ER-Diagram")
 
 ___
 
-###Functionalities: <br>
+### Functionalities: <br>
 
 •	From the Main Menu -- select between following Tables: <br>
 1. Lecture Event<br>
@@ -73,7 +73,7 @@ ____
 
 ____
 
-##Workload
+## Workload
 
 ToDO | Workload
 ------------ | -------------
@@ -87,10 +87,10 @@ Waiting for Response of IMASQL | 2h
 TOTAL | 167h
 
 
-##Costs for our Programme  
+## Costs for our Programme  
 
 167h = 1 person - 1 month (40h/week)
 netincome 2500 per Month
 
 
-##=> 5.000€
+## => 5.000€
