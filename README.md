@@ -11,7 +11,7 @@ Our Trainers were DI (FH) Johann Blauensteiner & [Dipl.-Ing. Robert Ladstätter]
 
 ### Goal: 
 Scala Database Application to display our Bachelor Degree Programme <br>
-###Database:
+### Database:
 Connection to Microsoft SQL Server (imasql @FH Joanneum)
   
 !! **NOTE** !! to get a Database Connectivity you have to install the Microsoft JDBC Driver 4.0 manually  
